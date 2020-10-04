@@ -1,8 +1,8 @@
-function main() {
-	document.getElementById("demo").innerHTML = "Sonali Mendiratta";
-}
+// function main() {
+// 	document.getElementById("demo").innerHTML = "Ashish";
+// }
 
-function mainReturn() {
-	document.getElementById("demo").innerHTML = "SONALI"
-}
+// function mainReturn() {
+// 	document.getElementById("demo").innerHTML = "Ashish"
+// }
 
