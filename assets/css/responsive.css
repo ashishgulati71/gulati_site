@@ -7,10 +7,12 @@
 
 	.social-icons ul{
 		margin-left: 0;
+		text-align: center;
 	}
 
 	.social-icons li{
-		padding:0;
+		/*padding:0;*/
+		margin-bottom: 25px;
 	}
 
 	.social-icons a i{
@@ -20,6 +22,25 @@
 	.mouse-icon{
 		display:none;
 	}
+
+	.logo a 
+	{
+	font-size: 16px;
+	}
+
+	.logo
+	{
+		margin-top: 0px;
+	}
+
+	.section-title
+	{
+		font-size: 28px;
+		line-height: 10px;
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
+
 
 	.navbar-custom .navbar-brand,
 	.navbar-custom .navbar-nav > li > a,
